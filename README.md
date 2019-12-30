@@ -1,7 +1,9 @@
 # Predicting the health of trees in New York City
 This repository contains the Python code and relative documentation of the first capstone project in the Springboard Data Science Career track. The different phases of the project are documented, together with a final report that includes all of them and presentation slides and pdf. 
+
 The presentation slides can be found here:
 https://github.com/aspds18/Springboard_capstone1/blob/master/capstone1_presentation.pdf
+
 The complete report can be found here:
 https://github.com/aspds18/Springboard_capstone1/blob/master/Capstone1_report.pdf
 # Project description
